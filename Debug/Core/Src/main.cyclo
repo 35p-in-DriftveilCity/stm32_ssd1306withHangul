@@ -1,0 +1,13 @@
+../Core/Src/main.c:71:6:writeEeprom	1
+../Core/Src/main.c:81:6:writeEeprom32	1
+../Core/Src/main.c:88:9:readEeprom	1
+../Core/Src/main.c:99:10:readEeprom32	1
+../Core/Src/main.c:107:6:scanI2C	3
+../Core/Src/main.c:122:5:main	1
+../Core/Src/main.c:186:6:SystemClock_Config	3
+../Core/Src/main.c:233:13:MX_ADC1_Init	4
+../Core/Src/main.c:294:13:MX_I2C1_Init	2
+../Core/Src/main.c:328:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:359:13:MX_DMA_Init	1
+../Core/Src/main.c:377:13:MX_GPIO_Init	1
+../Core/Src/main.c:409:6:Error_Handler	1

@@ -1,0 +1,5 @@
+../Core/Src/hancode.c:21:7:gethanimage	40	static
+../Core/Src/hancode.c:76:7:getascimage	24	static
+../Core/Src/hancode.c:93:7:get68image	24	static
+../Core/Src/hancode.c:111:7:geticonimage	24	static
+../Core/Src/hancode.c:121:16:hconv	24	static

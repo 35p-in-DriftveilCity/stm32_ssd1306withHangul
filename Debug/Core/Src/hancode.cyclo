@@ -1,0 +1,5 @@
+../Core/Src/hancode.c:21:7:gethanimage	9
+../Core/Src/hancode.c:76:7:getascimage	3
+../Core/Src/hancode.c:93:7:get68image	3
+../Core/Src/hancode.c:111:7:geticonimage	2
+../Core/Src/hancode.c:121:16:hconv	36

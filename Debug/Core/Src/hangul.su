@@ -1,0 +1,8 @@
+../Core/Src/hangul.c:25:6:testLCD	8	static
+../Core/Src/hangul.c:33:9:shiftBit	24	static
+../Core/Src/hangul.c:44:6:outeng	40	static
+../Core/Src/hangul.c:72:6:outhan	32	static
+../Core/Src/hangul.c:89:6:outtextxy_engs	16	static
+../Core/Src/hangul.c:95:6:outtextxy_hans	32	static
+../Core/Src/hangul.c:114:6:outtext68_font	48	static
+../Core/Src/hangul.c:150:6:outtextxy68_fonts	16	static
